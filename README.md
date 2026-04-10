@@ -7,7 +7,7 @@ O projeto consiste em calcular o ranking do jogador de acordo com a quantidade d
 - Operadores
 - Laços de Repetição
 - Estruturas de Decisões
-- Funções
+
 
 ## 🎯 | Objetivo Principal
 
